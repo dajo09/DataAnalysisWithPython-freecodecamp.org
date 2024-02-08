@@ -1,7 +1,7 @@
 ## DataAnalysisWithPython-freecodecamp.org
 Developer Certification on Data Analysis with Python
 
-**[view Python Certification](https://www.freecodecamp.org/certification/dajo/data-analysis-with-python-v7)
+** [view Python Certification](https://www.freecodecamp.org/certification/dajo/data-analysis-with-python-v7) **
 
 the following projects were built as part of the certification:
 
