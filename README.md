@@ -17,6 +17,16 @@ the following projects were built as part of the certification:
 
 <img width="446" alt="med data viz" src="https://github.com/dajo09/DataAnalysisWithPython-freecodecamp.org/assets/33592524/c2632947-e5a8-4ac0-b8c1-4879fc7783cc">
 
+- [Page View Time Series Visualizer](https://replit.com/@DaJo/boilerplate-page-view-time-series-visualizer#main.py)
+
+<img width="452" alt="time series viz" src="https://github.com/dajo09/DataAnalysisWithPython-freecodecamp.org/assets/33592524/86db5727-c4d5-45ac-ae06-6c65a59dddf2">
+
+- [Sea Level Predictor](https://replit.com/@DaJo/boilerplate-sea-level-predictor)
+
+<img width="450" alt="sealevel predictor" src="https://github.com/dajo09/DataAnalysisWithPython-freecodecamp.org/assets/33592524/de448109-f4e6-4449-906b-143043d7acc5">
+
+
+
 
 
 
